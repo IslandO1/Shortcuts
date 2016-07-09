@@ -61,7 +61,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#rgb(0,0,255);
+  color:#222222;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -328,8 +328,8 @@ Full-Width Styles
 .zip_download_link {
   display: block;
   float: right;
-  width: 90px;
-  height:70px;
+  width: 200px;
+  height:100px;
   text-indent: -5000px;
   overflow: hidden;
   background: url(../images/sprite_download.png) no-repeat bottom left;
@@ -338,8 +338,8 @@ Full-Width Styles
 .tar_download_link {
   display: block;
   float: right;
-  width: 90px;
-  height:70px;
+  width: 200px;
+  height:100px;
   text-indent: -5000px;
   overflow: hidden;
   background: url(../images/tar.png) no-repeat bottom right;
